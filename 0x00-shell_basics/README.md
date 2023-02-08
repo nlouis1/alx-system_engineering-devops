@@ -5,3 +5,5 @@ listing all files long format
 listing all files including hidden files
 listing files gid and uid in long format
 creating a directory in a temp
+Move the file betty from /tmp/ to /tmp/my_first_directory.
+
