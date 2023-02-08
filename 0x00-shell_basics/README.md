@@ -8,4 +8,5 @@ creating a directory in a temp
 Move the fsle betty from /tmp/ to /tmp/my_first_directory
 delete file betty
 delete Directory
+changing to previous directory
 
