@@ -11,4 +11,5 @@ delete Directory
 changing to previous directory
 even ones with names beginning with a period character, which are normally hidden
 reate a symbolic line
+coppy html files
 
