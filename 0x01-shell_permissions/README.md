@@ -11,4 +11,5 @@ Write a script that sets the mode of the file hello to this
 Write a script that sets the mode of the file hello the same as olleh’s mode
 adds execute permission to all subdirectories of the current directory
 Write a script that changes the owner to vincent and the group owner to staff
+Write a script that changes the owner and the group owner of _hello to vincent and staff respectively
 
