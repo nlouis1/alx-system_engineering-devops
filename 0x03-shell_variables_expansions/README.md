@@ -9,4 +9,5 @@ Write a script that prints the result of the addition of 128 with the value stor
 Write a script that prints the result of POWER divided by DIVIDE, followed by a new line.
 Write a script that displays the result of BREATH to the power LOVE
 There are 10 types of people in the world
+Create a script that prints all possible combinations of two letters, except oo.
 
