@@ -6,4 +6,5 @@ Create a script that lists environment variables.
 Create a script that lists all local variables and environment variables, and functions
 Create a script that creates a new global variable.
 Write a script that prints the result of the addition of 128 with the value store
+Write a script that prints the result of POWER divided by DIVIDE, followed by a new line.
 
