@@ -10,4 +10,5 @@ Write a script that prints the result of POWER divided by DIVIDE, followed by a 
 Write a script that displays the result of BREATH to the power LOVE
 There are 10 types of people in the world
 Create a script that prints all possible combinations of two letters, except oo.
+Write a script that converts a number from base 10 to base 16.
 
